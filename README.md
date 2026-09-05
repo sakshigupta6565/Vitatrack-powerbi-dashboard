@@ -32,4 +32,4 @@ in order to improve lifestyle suggestions for users.
 ## Tools
 Power BI, DAX
 
-![Dashboard Screenshot](add-your-screenshot-filename-here.png)
+![Dashboard Screenshot](dashboard.png)
